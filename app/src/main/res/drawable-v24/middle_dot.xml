@@ -1,0 +1,12 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+        android:shape="oval">
+
+        <solid
+            android:color="#666666"/>
+
+        <size
+            android:width="10sp"
+            android:height="10sp"/>
+</shape>
+    <!--This dot will be placed at the center of the map. This will indicate the
+    -->
